@@ -76,7 +76,7 @@ By meticulously explaining techniques and notating them in accessible formats, S
 | 1675 | *Libro Segundo de Cifras sobre la Guitarra Española* | *(Link unavailable)* |
 | 1697 | *Libro Tercero de Música de Cifras sobre la Guitarra Española* | *(Link unavailable)* |
 
-<img src="./gaspar_sanz_score.png" alt="Score sample" width="50%" />
+<img src="./gaspar_sanz_score.png" alt="Score sample" width="100%" />
 
 [Back to TOC](#-table-of-contents)
 
