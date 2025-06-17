@@ -50,7 +50,7 @@ Instrument: Baroque Guitar
 | 1697 | Released the third and final volume of his work |
 | ~1710 | Believed to have died around this year |
 
-Gaspar Sanz was a Spanish composer, Baroque guitarist, and Catholic priest. After theological studies in Spain, he pursued music in Rome, where he studied under respected musicians like **Lelio Colista**. Sanz returned to Spain as a skilled guitarist, eventually tutoring noble pupils and writing a comprehensive guitar method.
+Gaspar Sanz was a Spanish composer, Baroque guitarist, and Catholic priest. After theological studies in Spain, he pursued music in Rome, where he studied under respected musicians like **Lelio Colista**, who was praised by [Arcangelo Corelli](corelli_la_folia.md) as one of the ***"più professori musici di Roma"*** (the most esteemed music professors in Rome). Sanz returned to Spain as a skilled guitarist, eventually tutoring noble pupils and writing a comprehensive guitar method.
 
 His three-volume *Instrucción de Música sobre la Guitarra Española* outlined foundational techniques: **punteado** (plucking) and **rasgueado** (strumming). He employed **tablature notation** and an **alphabet-based chord system** similar to today's Nashville Number System. These innovations solidified the Baroque guitar's place in art music and influenced generations of guitarists.
 
